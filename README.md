@@ -8,5 +8,8 @@ Docker:
 * [Docker for Java Developers](https://github.com/docker/labs/tree/master/developer-tools/java)
 * [Docker labs](https://github.com/docker/labs/tree/master/beginner)
 
-* docker search <repository>:<port>/<library>:<version>
-* docker exec -i -t <image> /bin/bash -> [cat <file>]
+``` 
+docker search <repository>:<port>/<library>:<version>
+
+docker exec -i -t <image> /bin/bash -> [cat <file>]
+```
