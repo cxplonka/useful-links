@@ -13,3 +13,8 @@ docker search <repository>:<port>/<library>:<version>
 
 docker exec -i -t <image> /bin/bash -> [cat <file>]
 ```
+
+Database:
+
+* [Universal SQL Client](http://dbeaver.jkiss.org/)
+* [Jailer](https://github.com/Wisser/Jailer) an tool for database subsetting, schema and data browsing. Perfect for create consistent DB test data.
