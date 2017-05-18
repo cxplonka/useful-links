@@ -13,9 +13,23 @@ Docker:
 docker search <repository>:<port>/<library>:<version>
 
 docker exec -i -t <image> /bin/bash -> [cat <file>]
+
+docker pull <image>
+docker images
+docker start/stop <image>
+docker ps
+docker exec <container> env
+docker inspect <image>
 ```
 
 Database:
 
 * [Dbeaver](http://dbeaver.jkiss.org/) - Universal SQL Client
 * [Jailer](https://github.com/Wisser/Jailer) - an tool for database subsetting, schema and data browsing. Perfect for create consistent DB test data.
+
+Swagger:
+
+* [Swagger](http://swagger.io/) - The World's most popular API-Tooling
+* [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer) - generate your swagger docu with bytecode magic from your JAX-RS service
+** comment your javadoc with [markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
+** generate nice html with [pretty-swag](https://github.com/twskj/pretty-swag) -i swagger.json -f lite -m true
