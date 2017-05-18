@@ -9,7 +9,7 @@ Docker:
 * [Docker labs](https://github.com/docker/labs/tree/master/beginner)
 * [Rancher](http://rancher.com/) - open source platform for deploying and managing containers in production
 
-``` 
+```
 docker search <repository>:<port>/<library>:<version>
 
 docker exec -i -t <image> /bin/bash -> [cat <file>]
@@ -31,5 +31,5 @@ Swagger:
 
 * [Swagger](http://swagger.io/) - The World's most popular API-Tooling
 * [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer) - generate your swagger docu with bytecode magic from your JAX-RS service
-** comment your javadoc with [markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
-** generate nice html with [pretty-swag](https://github.com/twskj/pretty-swag) -i swagger.json -f lite -m true
+  * comment your javadoc with [markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
+  * generate nice html with [pretty-swag](https://github.com/twskj/pretty-swag) -i swagger.json -f lite -m true
