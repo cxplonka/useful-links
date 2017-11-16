@@ -26,6 +26,7 @@ Database:
 
 * [Dbeaver](http://dbeaver.jkiss.org/) - Universal SQL Client
 * [Jailer](https://github.com/Wisser/Jailer) - an tool for database subsetting, schema and data browsing. Perfect for create consistent DB test data.
+* [Debezium](http://debezium.io/) - a amazing distributed platform for change data capture
 
 Swagger:
 
