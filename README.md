@@ -27,6 +27,8 @@ Database:
 * [Dbeaver](http://dbeaver.jkiss.org/) - Universal SQL Client
 * [Jailer](https://github.com/Wisser/Jailer) - an tool for database subsetting, schema and data browsing. Perfect for create consistent DB test data.
 * [Debezium](http://debezium.io/) - a amazing distributed platform for change data capture
+* [Jeddict](https://github.com/jeddict/jeddict) - before JPAModeller, JPA, Java EE 8 and MicroProfile application generator
+* [KissMDA](https://github.com/crowdcode-de/KissMDA) - Model Driven Architecture (MDA) generator
 
 Swagger:
 
