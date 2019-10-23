@@ -49,3 +49,15 @@ Web Frontend Systems:
 * [Errai](http://erraiframework.org/) - Java EE In The Browser, GWT based
 * [Vaadin](https://vaadin.com/) - Vaadin Framework is a Java UI framework that simplifies your web app development, GWT based, new with web components
 * [Vue](https://vuejs.org/) - The Progressive JavaScript Framework, can be compared to REACT
+
+Prometheus
+
+* [Awsome rules](https://awesome-prometheus-alerts.grep.to/rules.html) - Many useful prometheus rules
+
+Monitoring:
+
+* Prometheus
+* Grafana
+* jmx_exporter
+* promagent
+* https://timber.io/blog/promql-for-humans/
