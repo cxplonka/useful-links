@@ -54,6 +54,10 @@ Prometheus
 
 * [Awsome rules](https://awesome-prometheus-alerts.grep.to/rules.html) - Many useful prometheus rules
 
+Business intelligence
+
+* [Apache Superset](https://superset.incubator.apache.org/) - Apache Superset is a modern, enterprise-ready business intelligence web application
+
 Monitoring:
 
 * Prometheus
