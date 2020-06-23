@@ -65,3 +65,7 @@ Monitoring:
 * jmx_exporter
 * promagent
 * https://timber.io/blog/promql-for-humans/
+
+Swing
+
+* An amazing SWING LAF inspired by the IntelliJ IDE [FlatLaf](https://github.com/JFormDesigner/FlatLaf)
