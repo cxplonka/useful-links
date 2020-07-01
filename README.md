@@ -69,3 +69,7 @@ Monitoring:
 Swing
 
 * An amazing SWING LAF inspired by the IntelliJ IDE [FlatLaf](https://github.com/JFormDesigner/FlatLaf)
+
+JVM Tools
+
+* [JavaObjectLayout](https://openjdk.java.net/projects/code-tools/jol/) is the tiny toolbox to analyze object layout schemes in JVMs.
